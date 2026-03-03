@@ -1146,7 +1146,7 @@ endpoints:
     # Fireworks.ai
     # Models: https://fireworks.ai/models?show=Serverless
     - name: "Fireworks"
-      apiKey: "user_provided"
+      apiKey: "${FIREWORKS_API_KEY}"
       baseURL: "https://api.fireworks.ai/inference/v1"
       models:
         default:
