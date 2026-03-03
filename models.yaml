@@ -1179,7 +1179,7 @@ endpoints:
           - accounts/fireworks/models/minimax-m2p5
         fetch: true
       titleConvo: true
-      titleModel: "accounts/fireworks/models/llama-v2-7b-chat"
+      titleModel: "accounts/fireworks/models/qwen3-8b"
       summarize: false
       summaryModel: "accounts/fireworks/models/llama-v2-7b-chat"
       forcePrompt: false
