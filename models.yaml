@@ -1181,7 +1181,7 @@ endpoints:
       titleConvo: true
       titleModel: "accounts/fireworks/models/qwen3-8b"
       summarize: false
-      summaryModel: "accounts/fireworks/models/llama-v2-7b-chat"
+      summaryModel: "accounts/fireworks/models/qwen3-8b"
       forcePrompt: false
       modelDisplayLabel: "Fireworks"
       dropParams:
